@@ -7,7 +7,7 @@ This project aims to provide detailed insight into the layoffs happend in worldw
 
 ### Data Source
 
-Layoffs Data: The primary dataset used for this analysis is the " Laoffs.csv" file, containing information about contry & company wise layoffs.
+Layoffs Data: The primary dataset used for this analysis is the " Laoffs.csv" file, containing information about global layoffs.
 
 ``` sql
 SELECT*
